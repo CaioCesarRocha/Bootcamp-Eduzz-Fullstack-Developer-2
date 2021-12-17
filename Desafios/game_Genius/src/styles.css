@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    background-color: #000;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.main-page{
+    height: 85vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius{
+    display: grid;
+    grid-template-areas: 'roxo vermelho' 'amarelo azul';
+    grid-gap: 2px;
+    border: 2px solid #000;
+    background-color: #000;
+    border-radius: 100%;
+    width: 425px;
+    height: 425px;
+}
+
+.blue{
+    grid-area: azul;
+    background-color: rgb(12, 137, 240);
+    border-bottom-right-radius: 100%;
+}
+
+.red{
+    grid-area: vermelho;
+    background-color: crimson;
+    border-top-right-radius: 100%;
+}
+
+.yellow{
+    grid-area: amarelo;
+    background-color: gold;
+    border-bottom-left-radius: 100%;
+}
+
+.purple{
+    grid-area: roxo;
+    background-color:slateblue;
+    border-top-left-radius: 100%;
+}
+
+.selected{
+    opacity: 0.8;
+}
+
+.title{
+    color: #cdd4d2;
+    font-family:  'Press Start 2P', cursive;
+    margin: auto 0;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+}
