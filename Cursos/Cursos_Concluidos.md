@@ -7,3 +7,6 @@
 ### JavaScript ES6 essencial
 ### Desenvolvimento avançado com JS ES6
 ### Introdução ao TypeScript
+### Introdução ao ReactJS
+### Trabalhando com Componentes em React
+### Desenvolvimento de aplicações para internet com ReactJS
