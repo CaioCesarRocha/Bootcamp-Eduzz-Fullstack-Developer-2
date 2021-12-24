@@ -10,3 +10,5 @@
 ### Introdução ao ReactJS
 ### Trabalhando com Componentes em React
 ### Desenvolvimento de aplicações para internet com ReactJS
+### Práticas avançadas em projetos com ReactJS
+### Introdução aos React Hooks
