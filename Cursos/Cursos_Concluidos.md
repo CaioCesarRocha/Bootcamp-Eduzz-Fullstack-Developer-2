@@ -13,3 +13,5 @@
 ### Práticas avançadas em projetos com ReactJS
 ### Introdução aos React Hooks
 ### Criando aplicações móveismultiplataforma com React Native
+### MySql - Trabalhando com as suas primeiras tabelas
+### Introdução ao MongoDB e Bancos de Dados NoSQL
