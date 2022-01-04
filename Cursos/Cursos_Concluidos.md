@@ -15,3 +15,5 @@
 ### Criando aplicações móveismultiplataforma com React Native
 ### MySql - Trabalhando com as suas primeiras tabelas
 ### Introdução ao MongoDB e Bancos de Dados NoSQL
+### Introdução ao Node.js com JavaScript
+### Explorando o Estilo Arquitetural REST com Node.js
