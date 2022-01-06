@@ -17,3 +17,4 @@
 ### Introdução ao MongoDB e Bancos de Dados NoSQL
 ### Introdução ao Node.js com JavaScript
 ### Explorando o Estilo Arquitetural REST com Node.js
+### Node.js com Bancos de Dados Relacionais (SQL)
