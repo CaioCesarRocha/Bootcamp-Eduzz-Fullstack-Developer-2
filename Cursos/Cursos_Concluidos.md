@@ -20,3 +20,5 @@
 ### Node.js com Bancos de Dados Relacionais (SQL)
 ### Microsserviços e Integrações com Node.js
 ### Fundamentos de Arquitetura de Sistemas
+### Introdução a orquestração de contêineres com Docker
+### Introdução prática a computação em nuvem usando AWS
